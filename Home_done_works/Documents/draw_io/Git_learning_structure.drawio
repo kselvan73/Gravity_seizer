@@ -1,0 +1,117 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.8">
+  <diagram name="Page-1" id="1vGoAFz2LM2PxVcctvIH">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Za8gHh4nOocKNEtNeua0-39" value="&#xa;&lt;b style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; color: light-dark(rgb(102, 102, 255), rgb(130, 130, 255));&quot; data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;rgb(102, 102, 255)&amp;quot;}&quot;&gt;git commit -m&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none;&quot; class=&quot;hljs-string&quot;&gt;&quot;Your commit message here&quot;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;b style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; color: light-dark(rgb(102, 102, 255), rgb(130, 130, 255));&quot; data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;rgb(102, 102, 255)&amp;quot;}&quot;&gt;&lt;span style=&quot;forced-color-adjust: none;&quot; class=&quot;hljs-string&quot;&gt;&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;b style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; color: light-dark(rgb(102, 102, 255), rgb(130, 130, 255));&quot; data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;rgb(102, 102, 255)&amp;quot;}&quot;&gt;&lt;span style=&quot;forced-color-adjust: none;&quot; class=&quot;hljs-string&quot;&gt;commit msg has convention&amp;nbsp;&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;to understand easily by other&amp;nbsp;&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&#xa;&#xa;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="590" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="90" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="90" width="550" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="Za8gHh4nOocKNEtNeua0-1" target="Za8gHh4nOocKNEtNeua0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-1" value="workspace&lt;div&gt;(eg:visual studio)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="190" y="120" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-2" value="staging area &lt;br&gt;or&lt;br&gt;&amp;nbsp;queue&lt;br&gt;or&lt;br&gt;&amp;nbsp;index" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="120" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Za8gHh4nOocKNEtNeua0-3" target="Za8gHh4nOocKNEtNeua0-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-3" value="&lt;div&gt;local &lt;br&gt;repo or folder&lt;br&gt;(saves permanently)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-5" value="local" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-7" value="remote or cloud &lt;br&gt;repo" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="760" y="120" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-9" value="cloud" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="Za8gHh4nOocKNEtNeua0-10" target="Za8gHh4nOocKNEtNeua0-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="80" />
+              <mxPoint x="260" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-10" value="git add" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="290" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Za8gHh4nOocKNEtNeua0-16" target="Za8gHh4nOocKNEtNeua0-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-16" value="git add" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="90" y="493.75" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-17" value="&lt;br&gt;&lt;code&gt;git add&lt;/code&gt; command, you&#39;re &lt;strong&gt;staging&lt;/strong&gt; your changes. It means you&#39;re marking files or changes to be included in the next commit&lt;br&gt;&lt;br&gt;&lt;div&gt;The command to stage the file which is need to be commited in the local as well if needed in cloud git&amp;nbsp;&lt;br&gt;for eg:&lt;br&gt;file change is needed means stage it&lt;/div&gt;&lt;div&gt;if not leave it simple this will not reflect in the repo&#39;s&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="450" width="720" height="117.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-20" value="git commit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="530" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Za8gHh4nOocKNEtNeua0-21" target="Za8gHh4nOocKNEtNeua0-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="250" />
+              <mxPoint x="510" y="250" />
+              <mxPoint x="510" y="310" />
+              <mxPoint x="560" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-21" value="staging area &lt;br&gt;or&lt;br&gt;&amp;nbsp;queue&lt;br&gt;or&lt;br&gt;&amp;nbsp;index" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="360" y="150" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.637;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Za8gHh4nOocKNEtNeua0-20" target="Za8gHh4nOocKNEtNeua0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Za8gHh4nOocKNEtNeua0-25" target="Za8gHh4nOocKNEtNeua0-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-25" value="git commit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="90" y="633.75" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-26" value="&lt;strong&gt;&lt;code&gt;git commit&lt;/code&gt;&lt;/strong&gt; saves those staged changes &lt;strong&gt;permanently&lt;/strong&gt; to the local Git repository&#39;s history." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="590" width="720" height="117.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Za8gHh4nOocKNEtNeua0-32" target="Za8gHh4nOocKNEtNeua0-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-32" value="git push" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#66FF66,#4A890C);strokeColor=#2D7600;fontColor=light-dark(#221c1c, #121212);shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="773.75" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-33" value="&lt;strong&gt;&lt;code&gt;git commit&lt;/code&gt;&lt;/strong&gt; saves those staged changes &lt;strong&gt;permanently&lt;/strong&gt; to the local Git repository&#39;s history." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="730" width="720" height="117.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-36" value="&lt;b&gt;&lt;font style=&quot;color: rgb(102, 102, 255);&quot;&gt;stage all file in the folder day1 - git add day1/&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(102, 102, 255);&quot;&gt;stage all filein current folder -&lt;span style=&quot;background-color: transparent;&quot;&gt;git add .&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(102, 102, 255);&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;b&gt;in current folder i want to unstagethe particular file&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;git reset day1/chestday.txt&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: bold;&quot;&gt;git reset chestday.txt&lt;/div&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="450" width="330" height="120" as="geometry" />
+        </mxCell>
+        <UserObject label="https://www.conventionalcommits.org/en/v1.0.0/" link="https://www.draw.io" id="Za8gHh4nOocKNEtNeua0-37">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="1">
+            <mxGeometry x="1100" y="663.75" width="180" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-41" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(102, 102, 255);&quot;&gt;git push&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="730" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Za8gHh4nOocKNEtNeua0-43" target="Za8gHh4nOocKNEtNeua0-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Za8gHh4nOocKNEtNeua0-43" value="git push" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#99FF99,#4A890C);strokeColor=#2D7600;fontColor=light-dark(#221c1c, #121212);shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="260" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
